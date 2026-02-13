@@ -222,3 +222,7 @@ export default function Home() {
     </div>
   )
 }
+ <div className="flex justify-between py-3 border-b">
+                <span className="font-medium text-gray-600">Name:</span>
+                <span className="text-gray-900">{user.name}</span>
+              </div>
