@@ -252,4 +252,45 @@ export default function Home() {
  <div className="flex justify-between py-3 border-b">
                 <span className="font-medium text-gray-600">Name:</span>
                 <span className="text-gray-900">{user.name}</span>
+              </div>              <div className="flex justify-between py-3">
+                <span className="font-medium text-gray-600">User ID:</span>
+                <span className="text-gray-900">#{user.id}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  )
+}
+ <div className="flex justify-between py-3 border-b">
+                <span className="font-medium text-gray-600">Name:</span>
+                <span className="text-gray-900">{user.name}</span>
+              </div>            <span className="text-gray-900">#{user.id}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  )
+}
+ <div className="flex justify-between py-3 border-b">
+                <span className="font-medium text-gray-600">Name:</span>
+                <span className="text-gray-900">{user.name}</span>
+              </div>
+                      <span className="font-medium text-gray-600">Name:</span>
+                <span className="text-gray-900">{user.name}</span>
+              </div>            <span className="text-gray-900">#{user.id}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  )
+}
+ <div className="flex justify-between py-3 border-b">
+                <span className="font-medium text-gray-600">Name:</span>
+                <span className="text-gray-900">{user.name}</span>
               </div>
